@@ -1,0 +1,5 @@
+@include('header')
+@include('aside')
+@include('Wrapper')
+@yield('main_section')
+@include('footer')
